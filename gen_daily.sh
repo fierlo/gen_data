@@ -3,7 +3,7 @@
 
 # Set the target date (yesterday, generally).
 
-target=$(date --date='1 day ago' +%Y%m%d)
+target=$(date --date='2 day ago' +%Y%m%d)
 
 cd /home/chris/python/chorah
 
